@@ -28,7 +28,7 @@
   <br>
   💬 Feel free to ask me any question <a href="https://github.com/harlexkhal/harlexkhal/issues" title="Issues">Here</a>
   <br>
-  📫 You can reach me on: <a href="harlexibeh01@gmail.com">harlexibeh01@gmail.com</a>
+  📫 You can reach me on: <a>harlexibeh01@gmail.com</a>
 </p>
 
 <hr>
