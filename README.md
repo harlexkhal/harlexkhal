@@ -60,7 +60,7 @@
       <img align="left" width=390 src="http://github-readme-streak-stats.herokuapp.com?user=harlexkhal&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="harlexkhal" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=harlexkhal&show_icons=true&theme=github-dark&border_color=61dafb&hide_border=true&count_private=true" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=harlexkhal&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&count_private=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
@@ -78,13 +78,13 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/harlexkhal/DreamRealm" title="DreamRealm"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=harlexkhal&repo=DreamRealm&theme=github-dark&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/harlexkhal/CrunchMath" title="CrunchMath"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=harlexkhal&repo=CrunchMath&theme=github-dark&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/harlexkhal/DreamRealm" title="DreamRealm"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=harlexkhal&repo=DreamRealm&theme=dark&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/harlexkhal/CrunchMath" title="CrunchMath"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=harlexkhal&repo=CrunchMath&theme=dark&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/harlexkhal/Pacman2D" title="PacmanD"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=harlexkhal&repo=Pacman2D&theme=github-dark&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/harlexkhal/godot" title="godot"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=harlexkhal&repo=godot&theme=github-dark&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/harlexkhal/Pacman2D" title="PacmanD"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=harlexkhal&repo=Pacman2D&theme=dark&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/harlexkhal/godot" title="godot"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=harlexkhal&repo=godot&theme=dark&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
  <div align=center>
