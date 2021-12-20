@@ -39,7 +39,7 @@
   <code><img title="C++" height="25" src="images/cpp.svg"></code>
   <code><img title="C#" height="25" src="images/cSharp.svg"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Node.JS" height="25" src="images/npm.svg"></code>
+  <code><img title="Node.JS" height="25" src="images/nodejs.png"></code>
   <code><img title="PHP" height="25" src="images/php.svg"></code>
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
@@ -66,7 +66,7 @@
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harlexkhal&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br>
@@ -84,12 +84,11 @@
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/harlexkhal/Pacman2D" title="PacmanD"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=harlexkhal&repo=Pacman2D&theme=github-dark&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/harlexkhal/Crunch-Algo" title="Crunch-Algo"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=harlexkhala&repo=Crunch-Algo&theme=github-dark&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/harlexkhal/bullet3" title="bullet3"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=harlexkhal&repo=bullet3&theme=github-dark&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/harlexkhal/godot" title="godot"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=harlexkhal&repo=godot&theme=github-dark&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/harlexkhal/bullet3" title="bullet3"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=harlexkhal&repo=bullet3&theme=github-dark&border_color=61dafb&border_radius=10"></a>
+  <a align="center" href="https://github.com/harlexkhal/godot" title="godot"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=harlexkhal&repo=godot&theme=github-dark&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <h4 align="center">
