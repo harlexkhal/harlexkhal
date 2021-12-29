@@ -7,7 +7,7 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/alexander-ibeh-776814164/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/in/alexander-oguzie-ibeh-776814164/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/harlexkhal" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
   <code><a href="https://harlexkhal.github.io/" title="Portfolio Website"><img width="22" src="images/website.png"> Website</a></code>
   <code><a href="https://twitter.com/harlexkhal" title="Twitter Profile"><img width="22" src="images/twitter.png"> Twitter</a></code>
