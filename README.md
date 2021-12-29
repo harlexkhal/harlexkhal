@@ -11,7 +11,7 @@
   <code><a href="https://www.hackerrank.com/harlexkhal" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
   <code><a href="https://harlexkhal.github.io/" title="Portfolio Website"><img width="22" src="images/website.png"> Website</a></code>
   <code><a href="https://twitter.com/harlexkhal" title="Twitter Profile"><img width="22" src="images/twitter.png"> Twitter</a></code>
-  <code><a href="https://steamcommunity.com/profiles/76561199211481447/" title="LinkedIn Profile"><img width="22" src="images/steam.png"> Steam</a></code>
+  <code><a href="https://steamcommunity.com/profiles/76561199211481447/" title="Steam Profile"><img width="22" src="images/steam.png"> Steam</a></code>
 </h5>
 <br>
 <p align="center">
