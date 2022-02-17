@@ -76,17 +76,17 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/harlexkhal/DreamRealm" title="DreamRealm"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=harlexkhal&repo=DreamRealm&theme=onedark&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/harlexkhal/DreamRealm" title="DreamRealm" style="margin-bottom:10px"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=harlexkhal&repo=DreamRealm&theme=onedark&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/harlexkhal/CrunchMath" title="CrunchMath"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=harlexkhal&repo=CrunchMath&theme=onedark&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/harlexkhal/Pacman2D" title="PacmanD"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=harlexkhal&repo=Pacman2D&theme=onedark&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/harlexkhal/Pacman2D" title="PacmanD" style="margin-bottom:10px"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=harlexkhal&repo=Pacman2D&theme=onedark&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/harlexkhal/Drone-API" title="Drone-API"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=harlexkhal&repo=Drone-API&theme=onedark&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/harlexkhal/To-do-list-app" title="To-do-list-app"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=harlexkhal&repo=To-do-list-app&theme=onedark&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/harlexkhal/To-do-list-app" title="To-do-list-app" style="margin-bottom:10px"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=harlexkhal&repo=To-do-list-app&theme=onedark&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/harlexkhal/Crunch-Algo" title="Crunch-Algo"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=harlexkhal&repo=Crunch-Algo&theme=onedark&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
