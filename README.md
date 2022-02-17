@@ -82,7 +82,12 @@
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/harlexkhal/Pacman2D" title="PacmanD"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=harlexkhal&repo=Pacman2D&theme=onedark&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/harlexkhal/godot" title="godot"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=harlexkhal&repo=godot&theme=onedark&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/harlexkhal/Drone-API" title="Drone-API"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=harlexkhal&repo=Drone-API&theme=onedark&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/harlexkhal/To-do-list-app" title="To-do-list-app"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=harlexkhal&repo=To-do-list-app&theme=onedark&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/harlexkhal/Crunch-Algo" title="Crunch-Algo"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=harlexkhal&repo=Crunch-Algo&theme=onedark&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
  <div align=center>
