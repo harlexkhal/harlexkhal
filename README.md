@@ -73,23 +73,6 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=harlexkhal&theme=github-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 <hr>
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/harlexkhal/DreamRealm" title="DreamRealm"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=harlexkhal&repo=DreamRealm&theme=onedark&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/harlexkhal/CrunchMath" title="CrunchMath"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=harlexkhal&repo=CrunchMath&theme=onedark&border_color=61dafb&border_radius=10"></a>
+<div align=center>
+    <img align="left" style="width:100%" src="images/matrix.gif" alt="stats.LOL" />
 </div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/harlexkhal/Pacman2D" title="PacmanD"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=harlexkhal&repo=Pacman2D&theme=onedark&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/harlexkhal/Drone-API" title="Drone-API"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=harlexkhal&repo=Drone-API&theme=onedark&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/harlexkhal/To-do-list-app" title="To-do-list-app"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=harlexkhal&repo=To-do-list-app&theme=onedark&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/harlexkhal/Crunch-Algo" title="Crunch-Algo"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=harlexkhal&repo=Crunch-Algo&theme=onedark&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
- <div align=center>
-      <img align="left" style="width:100%" src="images/matrix.gif" alt="stats.LOL" />
- </div>
