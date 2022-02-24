@@ -73,12 +73,9 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=harlexkhal&theme=github-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 <hr>
-  <div align=center>
-    <a href="https://spotify-github-profile.vercel.app/api/view?uid=31srdykzycmwthgr4b6hrmde756a&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31srdykzycmwthgr4b6hrmde756a&redirect=true">
-      <img width=325 align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=31srdykzycmwthgr4b6hrmde756a&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31srdykzycmwthgr4b6hrmde756a&redirect=true" />
-    </a>
-  </div>
-<hr>
 <div align=center>
     <img align="left" style="width:100%" src="images/matrix.gif" alt="stats.LOL" />
 </div>
+<hr/>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31srdykzycmwthgr4b6hrmde756a&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31srdykzycmwthgr4b6hrmde756a&redirect=true)
