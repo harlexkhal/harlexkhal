@@ -79,4 +79,4 @@
 <hr/>
 <br/>
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31srdykzycmwthgr4b6hrmde756a&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31srdykzycmwthgr4b6hrmde756a&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)]]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31srdykzycmwthgr4b6hrmde756a&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31srdykzycmwthgr4b6hrmde756a&redirect=true)
