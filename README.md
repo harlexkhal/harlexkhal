@@ -77,6 +77,7 @@
     <img align="left" style="width:100%" src="images/matrix.gif" alt="stats.LOL" />
 </div>
 <hr/>
-<br/>
+<br/><br/><br/><br/><br/><br/><br/><br/>
+<h2>Listening on spotify🎧 🎼〽️😚〽️🎼</h2>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31srdykzycmwthgr4b6hrmde756a&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31srdykzycmwthgr4b6hrmde756a&redirect=true)
