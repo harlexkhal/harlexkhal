@@ -70,7 +70,8 @@
     </a>
   </div>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=harlexkhal&theme=github-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <!--To do deploy this on my heroku account myself-->
+  <!--<img src="https://activity-graph.herokuapp.com/graph?username=harlexkhal&theme=github-dark&bg_color=20232a&hide_border=true" width="100%"/>-->
 </p>
 <hr>
 <div align=center>
@@ -78,6 +79,6 @@
 </div>
 <hr/>
 <br/><br/><br/><br/><br/><br/><br/><br/>
-<h2>Listening on Spotify🎧 🎼〽️😚〽️🎼</h2>
+<h2>Listening on spotify🎧 🎼〽️😚〽️🎼</h2>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31srdykzycmwthgr4b6hrmde756a&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31srdykzycmwthgr4b6hrmde756a&redirect=true)
