@@ -81,4 +81,6 @@
 <br/><br/><br/><br/><br/><br/><br/><br/>
 <h2>Listening on spotify🎧 🎼〽️😚〽️🎼</h2>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31srdykzycmwthgr4b6hrmde756a&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31srdykzycmwthgr4b6hrmde756a&redirect=true)
+[//]:#[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31srdykzycmwthgr4b6hrmde756a&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31srdykzycmwthgr4b6hrmde756a&redirect=true)
+
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/harlexkhal)
