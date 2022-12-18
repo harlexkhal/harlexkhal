@@ -17,9 +17,6 @@
 <p align="center">
   Hi, I'm Alex, A Software Engineer
   <br>
-  <br>
-  🔬 I'm currently studying at <a href="https://www.microverse.org/">MicroverseInc</a>
-  <br>
   💻 I love to write lowlevel codes closer to the hardware, and enjoy writing graphics rendering codes.
   <br>
   📚 I’m currently learning how to build 3D software applications for games and engineering simulations.
