@@ -67,8 +67,6 @@
     </a>
   </div>
   <br>
-  <!--To do deploy this on my heroku account myself-->
-  <img src="https://activity-graph.herokuapp.com/graph?username=harlexkhal&theme=github-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 <hr>
 <div align=center>
